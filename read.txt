@@ -1,0 +1,3 @@
+基于scrapy的一个爬虫项目，爬起点图书
+需安装：
+pip install scrapy,lxml
